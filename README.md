@@ -1,2 +1,7 @@
-# Caffe-Food-Ordering-System-WebApp
-Personal Web Application with automated food ordering system for cafes and restaurants. Built by the MIN Development.
+# Hurry up web application
+
+This is a web application for the company named: "Hurry up";
+
+FFB266 - narandzasta
+F9F9F9 - bela
+333 - crna
